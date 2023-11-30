@@ -1,0 +1,2 @@
+# LodyBot
+Discord Music Bot
